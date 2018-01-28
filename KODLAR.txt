@@ -3,6 +3,10 @@ git commit  git clone https://github.com/serhattsnmz/arduino-deneme.git
 
 --- EKLEME --- 
 
+Kullanýcý oluþturma : 
+git brach
+git checkout -b <isim>
+
 Deðiþiklikleri versiyonlamak için :
 git add .
 git commit -m "Mesaj"
