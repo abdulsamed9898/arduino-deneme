@@ -1,0 +1,20 @@
+Clonlama :
+git commit  git clone https://github.com/serhattsnmz/arduino-deneme.git
+
+--- EKLEME --- 
+
+Deðiþiklikleri versiyonlamak için :
+git add .
+git commit -m "Mesaj"
+
+Versiyonlarý uzak repoya yüklemek için :
+git push origin <branch>
+
+
+-----------------
+
+durum :
+git status
+
+versiyonlarý görmek :
+git log
